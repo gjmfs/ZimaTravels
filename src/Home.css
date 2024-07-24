@@ -1,0 +1,36 @@
+.bg{
+  background-image: url(./Images/BackgroundImage.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+img{
+    min-height: 250px;
+    max-height: 250px;
+    object-fit: cover;
+  }
+  .card-body{
+    position:absolute;
+    top: 20vh;
+    right: 0;
+    width: 100%;
+    opacity: 1;
+    transition: 0.75s ease-out;
+    height: 100%;
+    
+  }
+  .card-body a{
+    text-decoration: none;
+    color: aliceblue ;
+    text-align: center;
+    
+  }
+  
+  .card-body:hover{
+    text-shadow: 5px 5px 5px rgb(36, 36, 36);
+  }
+  .card-body a:hover {
+    color:rgb(0, 255, 242);
+  }
