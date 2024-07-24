@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ZimaTravels/static/css/main.c8a047eb.css",
-    "main.js": "/ZimaTravels/static/js/main.156713e3.js",
+    "main.js": "/ZimaTravels/static/js/main.54ca9627.js",
     "static/js/453.7ce81bb3.chunk.js": "/ZimaTravels/static/js/453.7ce81bb3.chunk.js",
     "static/media/Mirissa_Beach.jpg": "/ZimaTravels/static/media/Mirissa_Beach.a5936df15aefbfabc6de.jpg",
     "static/media/Bambarakanda_Falls_Ohiya.jpg": "/ZimaTravels/static/media/Bambarakanda_Falls_Ohiya.185e566c37af6c8e9e57.jpg",
@@ -25,11 +25,11 @@
     "static/media/close.svg": "/ZimaTravels/static/media/close.b20c162eb875838f732121ce58815927.svg",
     "static/media/menu.svg": "/ZimaTravels/static/media/menu.4a183f6397ed58cf37b3c2097d6d9274.svg",
     "main.c8a047eb.css.map": "/ZimaTravels/static/css/main.c8a047eb.css.map",
-    "main.156713e3.js.map": "/ZimaTravels/static/js/main.156713e3.js.map",
+    "main.54ca9627.js.map": "/ZimaTravels/static/js/main.54ca9627.js.map",
     "453.7ce81bb3.chunk.js.map": "/ZimaTravels/static/js/453.7ce81bb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8a047eb.css",
-    "static/js/main.156713e3.js"
+    "static/js/main.54ca9627.js"
   ]
 }
