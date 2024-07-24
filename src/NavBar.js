@@ -9,7 +9,7 @@ import { Home } from "./Home";
 export const NavBar = () => {
   return (
     <nav>
-      <NavLink to="/">
+      <NavLink to="/ZimaTravels">
         <img id="logo" src={zimaTravels} alt="logo" />
       </NavLink>
       <input type="checkbox" id="sidebar-active" />
