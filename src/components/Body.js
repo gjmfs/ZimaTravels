@@ -145,7 +145,7 @@ export const Cards = () => {
     <div
       onClick={() => {
         clikedCard = details;
-        navigate("content-page");
+        navigate("/ZimaTravels/content-page");
       }}
       key={details.id}
       className="col-lg p-3"

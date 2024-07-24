@@ -10,9 +10,9 @@ function App() {
     <>
       <NavBar />
       <Routes>
-        <Route path="/" element={<Home />}></Route>
+        <Route path="/ZimaTravels" element={<Home />}></Route>
         <Route path="*" element={<NotFound/>}></Route>
-        <Route path='/content-page' element={<ContentPage/>}></Route>
+        <Route path='/ZimaTravels/content-page' element={<ContentPage/>}></Route>
       </Routes>
       <Footer/>
     </>
