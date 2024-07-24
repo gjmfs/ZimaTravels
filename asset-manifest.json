@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ZimaTravels/static/css/main.c8a047eb.css",
+    "main.js": "/ZimaTravels/static/js/main.156713e3.js",
+    "static/js/453.7ce81bb3.chunk.js": "/ZimaTravels/static/js/453.7ce81bb3.chunk.js",
+    "static/media/Mirissa_Beach.jpg": "/ZimaTravels/static/media/Mirissa_Beach.a5936df15aefbfabc6de.jpg",
+    "static/media/Bambarakanda_Falls_Ohiya.jpg": "/ZimaTravels/static/media/Bambarakanda_Falls_Ohiya.185e566c37af6c8e9e57.jpg",
+    "static/media/Nilaveli_Beach.jpg": "/ZimaTravels/static/media/Nilaveli_Beach.61aea0262404e25533cb.jpg",
+    "static/media/Unawatuna_Beach.jpg": "/ZimaTravels/static/media/Unawatuna_Beach.5b951b23a9339ab52faf.jpg",
+    "static/media/Dehiwala_Zoo.jpg": "/ZimaTravels/static/media/Dehiwala_Zoo.69bb9ca6e545c6fa279a.jpg",
+    "static/media/Pasikuda_Beach.jpg": "/ZimaTravels/static/media/Pasikuda_Beach.5c30cc90e26a5411fce4.jpg",
+    "static/media/Dalada_Maligawa.jpg": "/ZimaTravels/static/media/Dalada_Maligawa.f619d0c469bfeb68bfc9.jpg",
+    "static/media/Anuradhapura.jpg": "/ZimaTravels/static/media/Anuradhapura.e1f75a14bba773078104.jpg",
+    "static/media/Bentota_Beach.jpg": "/ZimaTravels/static/media/Bentota_Beach.73f1c8c7fa21d65fcbb0.jpg",
+    "static/media/Zima Log png.png": "/ZimaTravels/static/media/Zima Log png.ac44a74505c73228ea42.png",
+    "static/media/BackgroundImage.jpg": "/ZimaTravels/static/media/BackgroundImage.e9607bbc279c5d8d7c27.jpg",
+    "static/media/Udawalawe_National_Park.jpg": "/ZimaTravels/static/media/Udawalawe_National_Park.75540c65d0a2f47062c9.jpg",
+    "static/media/Marble_Beach.jpg": "/ZimaTravels/static/media/Marble_Beach.320f97299c7f71e3ac90.jpg",
+    "static/media/The_Old_Town_of_Galle_and_its_Fortifications.jpg": "/ZimaTravels/static/media/The_Old_Town_of_Galle_and_its_Fortifications.6216b15f9f0f3c755eb3.jpg",
+    "static/media/Arugambay.jpg": "/ZimaTravels/static/media/Arugambay.22fdf53f7d7197cc6a9c.jpg",
+    "static/media/CompetitivePrices.svg": "/ZimaTravels/static/media/CompetitivePrices.82c995e3127bc3f1986f62dd32404c49.svg",
+    "index.html": "/ZimaTravels/index.html",
+    "static/media/CustomerSatisfactionGuarantee.svg": "/ZimaTravels/static/media/CustomerSatisfactionGuarantee.539fbb96a736a309559e2cf2d539edc7.svg",
+    "static/media/LocalKnowledge.svg": "/ZimaTravels/static/media/LocalKnowledge.656de360cc7bff2e011a45ace24904c8.svg",
+    "static/media/close.svg": "/ZimaTravels/static/media/close.b20c162eb875838f732121ce58815927.svg",
+    "static/media/menu.svg": "/ZimaTravels/static/media/menu.4a183f6397ed58cf37b3c2097d6d9274.svg",
+    "main.c8a047eb.css.map": "/ZimaTravels/static/css/main.c8a047eb.css.map",
+    "main.156713e3.js.map": "/ZimaTravels/static/js/main.156713e3.js.map",
+    "453.7ce81bb3.chunk.js.map": "/ZimaTravels/static/js/453.7ce81bb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a047eb.css",
+    "static/js/main.156713e3.js"
+  ]
+}
