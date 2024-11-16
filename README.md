@@ -1,3 +1,7 @@
+<h1>View Live Preview from here</h1>
+<a href="https://gjmfs.github.io/ZimaTravels/" > Visit Live Project</a>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
